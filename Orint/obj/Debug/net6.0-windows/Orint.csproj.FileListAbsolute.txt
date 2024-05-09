@@ -1,0 +1,72 @@
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.csproj.AssemblyReference.cache
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.Form1.resources
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.csproj.GenerateResource.cache
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.GeneratedMSBuildEditorConfig.editorconfig
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.AssemblyInfoInputs.cache
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.AssemblyInfo.cs
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.csproj.CoreCompileInputs.cache
+D:\PLD\Project\My Language\Orint\bin\Debug\net6.0-windows\Orint.exe
+D:\PLD\Project\My Language\Orint\bin\Debug\net6.0-windows\Orint.deps.json
+D:\PLD\Project\My Language\Orint\bin\Debug\net6.0-windows\Orint.runtimeconfig.json
+D:\PLD\Project\My Language\Orint\bin\Debug\net6.0-windows\Orint.dll
+D:\PLD\Project\My Language\Orint\bin\Debug\net6.0-windows\Orint.pdb
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.csproj.Up2Date
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.dll
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\refint\Orint.dll
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.pdb
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\Orint.genruntimeconfig.cache
+D:\PLD\Project\My Language\Orint\obj\Debug\net6.0-windows\ref\Orint.dll
+D:\PLD\Project\Orint\bin\Debug\net6.0-windows\Orint.exe
+D:\PLD\Project\Orint\bin\Debug\net6.0-windows\Orint.deps.json
+D:\PLD\Project\Orint\bin\Debug\net6.0-windows\Orint.runtimeconfig.json
+D:\PLD\Project\Orint\bin\Debug\net6.0-windows\Orint.dll
+D:\PLD\Project\Orint\bin\Debug\net6.0-windows\Orint.pdb
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.AssemblyReference.cache
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.Form1.resources
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.GenerateResource.cache
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.GeneratedMSBuildEditorConfig.editorconfig
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.AssemblyInfoInputs.cache
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.AssemblyInfo.cs
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.CoreCompileInputs.cache
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.Up2Date
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.dll
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\refint\Orint.dll
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.pdb
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\Orint.genruntimeconfig.cache
+D:\PLD\Project\Orint\obj\Debug\net6.0-windows\ref\Orint.dll
+C:\Users\Ahmed\Desktop\Project\Orint\bin\Debug\net6.0-windows\Orint.exe
+C:\Users\Ahmed\Desktop\Project\Orint\bin\Debug\net6.0-windows\Orint.deps.json
+C:\Users\Ahmed\Desktop\Project\Orint\bin\Debug\net6.0-windows\Orint.runtimeconfig.json
+C:\Users\Ahmed\Desktop\Project\Orint\bin\Debug\net6.0-windows\Orint.dll
+C:\Users\Ahmed\Desktop\Project\Orint\bin\Debug\net6.0-windows\Orint.pdb
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.Form1.resources
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.Up2Date
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.dll
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\refint\Orint.dll
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.pdb
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\Orint.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\Project\Orint\obj\Debug\net6.0-windows\ref\Orint.dll
+C:\Users\Ahmed\Desktop\PLD Project\Orint\bin\Debug\net6.0-windows\Orint.exe
+C:\Users\Ahmed\Desktop\PLD Project\Orint\bin\Debug\net6.0-windows\Orint.deps.json
+C:\Users\Ahmed\Desktop\PLD Project\Orint\bin\Debug\net6.0-windows\Orint.runtimeconfig.json
+C:\Users\Ahmed\Desktop\PLD Project\Orint\bin\Debug\net6.0-windows\Orint.dll
+C:\Users\Ahmed\Desktop\PLD Project\Orint\bin\Debug\net6.0-windows\Orint.pdb
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.Form1.resources
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.csproj.Up2Date
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.dll
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\refint\Orint.dll
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.pdb
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\Orint.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\PLD Project\Orint\obj\Debug\net6.0-windows\ref\Orint.dll
