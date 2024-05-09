@@ -1,2 +1,3 @@
 # Orint #
-## My Programming Language and My Syntax ## 
+
+## My Own Programming Language and Syntax ## 
